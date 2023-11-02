@@ -1,0 +1,47 @@
+.centralizado{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    margin-top: 1%;
+    margin-bottom: 3%;
+}
+
+.centralizado2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  margin-bottom: 1%;
+}
+
+.centralizado3{
+  width: 97vw;
+  margin-bottom: 1%;
+}
+
+.borda{
+  border: solid 1px black;
+}
+
+label{
+  font-size: 22px;
+  font-weight: bold;
+  margin-right: 1%;
+  color: white;
+}
+
+.card-body{
+  width: 50vw;
+  background-color: #343a40;
+  color: white;
+}
+
+.cor{
+  color: white!important;
+  border-color: white!important;
+}
+
+.divf{
+  background-color: rgba(0, 0, 0, 0.2)
+}
